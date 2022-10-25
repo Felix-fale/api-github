@@ -9,3 +9,5 @@ btn.onclick = () => {
       output.appendChild(img);
     });
 };
+
+// Et bien sur j'ai pas styliser l'exo donc le visuel est pas top
